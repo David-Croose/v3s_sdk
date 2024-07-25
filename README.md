@@ -342,6 +342,7 @@ and the defconfig file(arch/arm/configs/sunxi_defconfig b/arch/arm/configs/sunxi
 +CONFIG_CFG80211=y
 +CONFIG_RTL8723BS=m
 +
++CONFIG_SPI_SUN6I=y
 +CONFIG_SPI_MASTER=y
 +CONFIG_MTD=y
 +CONFIG_MTD_SPI_NOR=y
